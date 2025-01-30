@@ -15,8 +15,11 @@
 ### 使用方法
 1. 访问 [Deno Playground](https://dash.deno.com/account/overview)
 2. 将 `server.ts`（带限流版本）或 `server.simple.ts`（简化版本）的代码复制到编辑器中
-3. 点击 "Save & Deploy" 按钮
-4. 部署完成后，您将获得一个可用的代理服务地址
+
+   ![image](https://github.com/user-attachments/assets/67dda79c-ede5-4839-9640-27d0891753d4)
+
+4. 点击 "Save & Deploy" 按钮
+5. 部署完成后，您将获得一个可用的代理服务地址
 
 ## 繁體中文
 
